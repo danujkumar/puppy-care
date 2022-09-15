@@ -1,24 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Navigation from './components/Navigation.js';
+import MContainer from './components/MContainer.js';
+import M2Container from './components/M2Container';
+import M3Container from './components/M3Container';
+import M4Container from './components/M4Container';
+import M5Container from './components/M5Container';
+import M6Container from './components/M6Container';
+import M7Container from './components/M7Container';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navigation/>
+      <MContainer/>
+      <M2Container/>
+      <M3Container/>
+      <M4Container/>
+      <M5Container/>
+      <M6Container/>
+      <M7Container/>
+    </>
   );
 }
 
