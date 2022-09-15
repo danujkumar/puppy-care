@@ -54,7 +54,7 @@ export default function M6Container() {
               </h5>
 
               <div className="bloginfo">
-                <h2 className="h2">
+                <h2 className="h22">
                   How to bond with your new rescue pet?
                 </h2>
                 <div>
@@ -78,7 +78,7 @@ export default function M6Container() {
               </h5>
 
               <div className="bloginfo">
-                <h2 className="h2">
+                <h2 className="h222">
                   What happens if a dog does not get adopted?
                 </h2>
                 <div>
