@@ -1,6 +1,5 @@
 import React from 'react';
-// import Button from 'material-ui/Button';
-export default function M6Container() {
+export default function M6Container() {  
     return (
         <div className="m6Container">
         <div className="help" id="help1">
