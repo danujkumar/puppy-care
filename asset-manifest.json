@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pet-dog/static/css/main.6e5f9e0b.css",
+    "main.js": "/pet-dog/static/js/main.fafe8fee.js",
+    "static/js/787.7997fa97.chunk.js": "/pet-dog/static/js/787.7997fa97.chunk.js",
+    "static/media/b1.jpg": "/pet-dog/static/media/b1.8a205a4be5eaadada46b.jpg",
+    "static/media/about2.jpg": "/pet-dog/static/media/about2.77cd33f8728677c90e68.jpg",
+    "static/media/about1.jpg": "/pet-dog/static/media/about1.4f9f7e7eb8d793b94169.jpg",
+    "static/media/blog2.jpg": "/pet-dog/static/media/blog2.d81da642cae477c348c6.jpg",
+    "static/media/blog1.jpg": "/pet-dog/static/media/blog1.8ac495ef16a8c2d4afb5.jpg",
+    "static/media/blog3.jpg": "/pet-dog/static/media/blog3.cd2c35efdf2136d96f05.jpg",
+    "static/media/video.jpg": "/pet-dog/static/media/video.f9c61eea677c39f4f340.jpg",
+    "index.html": "/pet-dog/index.html",
+    "main.6e5f9e0b.css.map": "/pet-dog/static/css/main.6e5f9e0b.css.map",
+    "main.fafe8fee.js.map": "/pet-dog/static/js/main.fafe8fee.js.map",
+    "787.7997fa97.chunk.js.map": "/pet-dog/static/js/787.7997fa97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5f9e0b.css",
+    "static/js/main.fafe8fee.js"
+  ]
+}
